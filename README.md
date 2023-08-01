@@ -1,0 +1,1 @@
+This is a simple Webapplication for dogs who want to fing their loved ones. In short it is tinder for dogs. So named the application as TinDog. As of now there is only the frontend functionality for this project.
